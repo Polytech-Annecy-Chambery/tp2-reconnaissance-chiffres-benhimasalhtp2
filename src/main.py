@@ -24,7 +24,7 @@ if __name__ == '__main__':
     # Lecture image et affichage
     #==============================================================================
     image = Image()
-    image.load(path_to_assets + 'test2.JPG')
+    image.load(path_to_assets + 'test9.JPG')
     image.display("Exemple d'image")
 
     #==============================================================================
